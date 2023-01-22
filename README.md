@@ -1,10 +1,10 @@
-# Braude-MidProject
+# Ekrut: Vending Machine Project
 
 This is the final version of our mid-tohar project in Braude.
 This project is the result of the work of our group, consisting of:
 
 Rotem Levi,
-Dima Kyslitzin,
+Dima Kyslitsyn,
 Maxim Lebidinsky,
 Bar Steiner,
 Nastya Goldman,
