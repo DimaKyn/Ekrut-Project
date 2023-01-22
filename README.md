@@ -1,6 +1,6 @@
 # Ekrut: Vending Machine Project
 
-This is the final version of our mid-tohar project in Braude.
+This is the final version of our degree project in Braude.
 This project is the result of the work of our group, consisting of:
 
 Rotem Levi,
